@@ -1,3 +1,2 @@
-TOday is Wednesday
 I am learning Git
 appending
