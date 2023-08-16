@@ -1,2 +1,3 @@
 I am learning Git
 appending
+git pull using
