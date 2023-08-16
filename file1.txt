@@ -1,4 +1,2 @@
-TOday is Wednesday
-cbkdb
 I am learning Git
 appending
